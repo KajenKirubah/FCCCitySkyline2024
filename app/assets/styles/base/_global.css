@@ -1,0 +1,15 @@
+:root {
+    --building-color1: #aa80ff;
+    --building-color2: #66cc99;
+    --building-color3: #cc6699;
+    --building-color4: #538cc6;
+}
+* {
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+body {
+    height: 100vh;
+    margin: 0;
+    overflow: hidden;
+}
