@@ -1,0 +1,7 @@
+.fb4 {
+    width: 8%;
+    height: 45%;
+    background-color: var(--building-color1);
+    position: relative;
+    left: 10%;
+}
